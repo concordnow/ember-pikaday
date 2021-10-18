@@ -1,6 +1,6 @@
 {
   "name": "@concordnow/ember-pikaday",
-  "version": "3.0.0",
+  "version": "4.0.0-alpha.1",
   "description": "A tested datepicker component for Ember CLI projects including test helpers for your own acceptance tests.",
   "keywords": [
     "datepicker",
